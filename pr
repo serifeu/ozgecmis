@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8">
+    <title>özgeçmişim</title>
+    <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.0/css/bootstrap.no-icons.min.css" rel="stylesheet" media="print">
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Domine:400,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <style>
+    h1 {
+        font-family: Domine, serif;
+        font-weight: normal;
+        color: #446;
+    }
+    h3 {
+        font-family: Domine, serif;
+        font-weight: normal;
+        font-style: italic;
+        color: #333;
+        margin-top: 0;
+    }
+    h4 {
+        font-weight: normal;
+        color: #446;
+    }
+    .row h4 {
+        font-size: 16px;
+        font-style: italic;
+    }
+    h5 {
+        font-family: Domine, serif;
+        font-weight: normal;
+        font-size: 18px;
+        margin-top: 0;
+    }
+    .cover {
+        background-color: #fdfdfd;
+        padding: 30px 0 !important;
+    }
+    .row-fluid {
+        padding: 20px 0;
+        border-bottom: 1px solid #ddd;
+    }
+    .row {
+        margin-left: 0px;
+	page-break-inside: avoid !important;
+    }
+    hr {
+	margin: 0;
+        margin-bottom: 15px;
+    }
+    </style>
+</head>
+<body>
+    <img src="photo.html.jpg" height="200">
+    <div class="container">
+        
+        </div>
+        <div class="row-fluid cover">
+            <div class="span2" style="text-align: center;">
+                <img src="" class="img-polaroid">
+            </div>
+            <div class="span7">
+                <h1>ŞERİFE UYANIK</h1>
+                <h4>KTO KARATAY ÜNİVERSİTESİ BİLGİSAYAR PROGRAMCILIĞI BÖLÜMÜ ÖGRENCİ</h4>
+            
+                </ul>
+            </div>
+        </div>
+        <div class="row-fluid">
+            <div class="span3"><h3>Hakkımda</h3></div>
+            <div class="span9">
+                <ul>
+               <li><p>İnternet ve yazılıma 2016 yılından beri meraklıyım. ilk deneme projelerimi html üzerinden gerçekleştirdim</p></li>
+               <li><p>ilkokul saraçoğlu ahmet haşhaş ilkokulunda okudum(2014)</p></li>
+               <li><p>ortaokul yaşardoğu ortaokulunda tamamladım(2018)</p></li>
+               <li><p>lisede ise nizamülmülk anadolu lisesinden mezun oldum(2022)</p></li>
+               <li><p>2023 yılında kto karatay üniversitesinde bilgisayar programcılığı bölümüne kayıt oldum şu anda hala eğitim görmekteyim</p></li>
+               <li><p>Daha sonra btk akademi üzerinden temel phython eğitimi aldım ve udemy üzerinden temel kodlamalar yaptım</p></li>
+               <li><p>İngilizce dilinde B1 konuşma ve B2 anlama yeteneklerine sahibim</p></li>
+
+              <ul></ul> <a href="about.html"> hakkımda daha fazla ve detaylı bilgi için</a>
+<br>
+               <a href="contact.html">iletişim için</a>
+            </ul>
+        </body>
+              
+                <footer>
+                  <small>
+                    Copyright © 2023 personal information All Rights Reserved.
+                  </small>
+                </footer>
+              </body>
