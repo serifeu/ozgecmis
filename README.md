@@ -1,1 +1,1 @@
-<serifeu.github.io>
+<serifeu>.github.io
